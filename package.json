@@ -1,6 +1,6 @@
 {
   "name": "wonder-bs-most",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "",
   "homepage": "https://github.com/Wonder-Technology/Wonder-bs-most.js",
   "license": "MIT",
@@ -13,10 +13,10 @@
     "@babel/core": "^7.10.4",
     "@babel/preset-env": "^7.10.4",
     "gentype": "^3.48.0",
-    "wonder-bs-sinon": "^0.1.9",
-    "bs-platform": "^8.3.3"
+    "wonder-bs-sinon": "^0.1.9"
   },
   "dependencies": {
+    "bs-platform": "^8.3.3",
     "most": "^1.7.0",
     "most-subject": "^5.3.0"
   }
