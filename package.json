@@ -1,6 +1,6 @@
 {
   "name": "wonder-bs-most",
-  "version": "0.0.3",
+  "version": "0.0.6",
   "description": "",
   "homepage": "https://github.com/Wonder-Technology/Wonder-bs-most.js",
   "license": "MIT",
@@ -10,10 +10,11 @@
     "test:watch": "jest --watch --config jest.json"
   },
   "devDependencies": {
-    "babel": "^6.23.0",
-    "babel-cli": "^6.26.0",
-    "babel-preset-es2015": "^6.24.1",
-    "bs-platform": "4.0.0"
+    "@babel/core": "^7.10.4",
+    "@babel/preset-env": "^7.10.4",
+    "gentype": "^3.48.0",
+    "wonder-bs-sinon": "^0.1.9",
+    "bs-platform": "^8.3.3"
   },
   "dependencies": {
     "most": "^1.7.0",

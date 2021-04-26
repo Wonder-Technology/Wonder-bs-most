@@ -6,11 +6,9 @@
       "subdirs": true
     }
   ],
-  "bs-dev-dependencies": [
-  ],
+  "bs-dev-dependencies": [],
   "refmt": 3,
-  "bs-dependencies": [
-  ],
+  "bs-dependencies": [],
   "package-specs": [
     "commonjs"
   ],
